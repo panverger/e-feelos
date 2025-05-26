@@ -3,6 +3,7 @@ Project for 7th Open Technologies Competition - 7oς Πανελλήνιος Δι
 <img src="https://github.com/user-attachments/assets/96d59ff5-0168-49c6-8d8e-c6d6e45d8751"  width="300"/>
 # Περιγραφή
 ![IMG_20250523_122328 (1)](https://github.com/user-attachments/assets/0946ed7b-ef47-4e1c-896c-5835fbbe01c4)
+[Youtube-Demo](https://youtu.be/63BEasJiod4)
 
 Μια προσπάθεια δημιουργίας ενός φιλικού ρομπότ για να συζητήσεις μαζί του μέσω φυσικής φωνής. Διαθέτει 2 γλυκά ματάκια που θα σου κάνουν παρέα. Τα κομμάτια του ρομπότ τυπώθηκαν στον 3D εκτυπωτή του σχολείου και η συναρμολόγηση έγινε με τη βοήθεια των μαθητών.
 
